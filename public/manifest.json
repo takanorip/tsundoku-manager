@@ -1,0 +1,9 @@
+{
+  "name": "積読棚",
+  "short_name": "積読棚",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f8f8",
+  "theme_color": "#1f67d6",
+  "lang": "ja"
+}
